@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://zealvix.in/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://zealvix.in/zealvix-logo.png</image:loc>
+      <image:title>Zealvix – Strategic Digital Growth Agency India</image:title>
+      <image:caption>Zealvix logo – We Build What You Imagine</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://zealvix.in/ranjith-sivashanmugam-founder-zealvix.png</image:loc>
+      <image:title>Ranjith Sivashanmugam – Founder of Zealvix</image:title>
+      <image:caption>Ranjith Sivashanmugam, Founder and Strategic Lead of Zealvix digital agency, India.</image:caption>
+    </image:image>
+  </url>
+</urlset>
