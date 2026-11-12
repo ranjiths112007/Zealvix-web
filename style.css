@@ -136,6 +136,7 @@ nav.glass-nav { position: fixed; top: 0; width: 100%; padding: 0.8rem 5%; displa
 
 /* Portfolio Section */
 .portfolio-section { padding: 4rem 0; }
+.portfolio-card + .portfolio-card { margin-top: 40px; }
 .portfolio-card { background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 30px; overflow: hidden; display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: 0; box-shadow: 0 20px 50px rgba(0,0,0,0.1); }
 .portfolio-content { padding: 4rem; }
 .portfolio-tag { display: inline-block; padding: 5px 15px; border-radius: 20px; background: rgba(46, 107, 255, 0.1); color: var(--accent-2); font-size: 0.8rem; font-weight: 700; text-transform: uppercase; margin-bottom: 1rem; }
